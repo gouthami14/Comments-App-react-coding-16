@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.comment-container {
+  background-color: #dee0e3;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+}
+.comment-heading {
+  color: #1e293b;
+  font-size: 40px;
+  font-weight: 700;
+}
+.comment-text-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.line {
+  color: #475569;
+  font-weight: 900;
+}
